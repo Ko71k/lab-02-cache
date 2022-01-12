@@ -1,4 +1,4 @@
-// Copyright 2021 Ko71k <rassmagin.rrr@gmail.com>
+// Copyright 2022 Ko71k <rassmagin.rrr@gmail.com>
 
 #include <cache.hpp>
 
